@@ -16,4 +16,5 @@
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    
 </div> <br> 
-"Não importa o quão poderoso você se torne, nunca tente fazer tudo sozinho. Caso contrario irá falhar"<br>-Uchiha Itachi, Naruto
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+– Martin Fowler
