@@ -3,3 +3,4 @@
       <a href="https://www.instagram.com/lkx_sz/">My instagram</a>
       <p></p>
     </div>
+<link rel="stylesheet" href="style.css" />
