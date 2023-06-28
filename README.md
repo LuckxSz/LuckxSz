@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOkg5u5U1yWEVfyYqij24Jw)
 
 
-![LuckxSz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckxSz&theme=graywhite)
+![LuckxSz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckxSz&theme=holi)
 
 ## Daily technologies 
 
