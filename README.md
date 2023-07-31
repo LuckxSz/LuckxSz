@@ -1,6 +1,6 @@
 ### yo, im xkl ✋
 
-![](https://typograssy.deno.dev/api?text=Welcome%20To%20My%20Profile!&l0=0d1017&l1=edcee0&l2=dbc5ed&l3=d3f8fd&l4=e8e7bf&bg=0d1017&frame=0d1017&speed=100)
+https://typograssy.deno.dev/api?text=%E7%A7%81%E3%81%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%81%A7%E3%81%99&l0=ffffff&l1=d400ff&l2=d400ff&l3=d400ff&l4=d400ff&bg=fafafa&frame=ff0000
 
 
 ``
