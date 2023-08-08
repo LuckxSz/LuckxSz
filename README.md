@@ -12,10 +12,10 @@ Name: XKL.
 OS: Ubuntu 22.04.3 LTS
 Shell: bash 5.1.16 
 Telegram: @xkkll7
-FavouriteAnime: Boku no Hero Academia 
+Favourite-Anime: Boku no Hero Academia 
 Languages: HTML || CSS || JAVASCRIPT || 
 Learning: JAVASCRIPT 
-FavouriteSong: HELL ABOVE 
+Favourite-Song: HELL ABOVE 
 Hobbies: Gaming, Anime,Coding 
 My Favourite singers : Eve, LilRevive, Frosty916
 ```
@@ -23,11 +23,8 @@ My Favourite singers : Eve, LilRevive, Frosty916
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
-
 ![coffee-overflow](https://github.com/LuckxSz/LuckxSz/assets/135531180/f70d42e3-83b9-423b-8694-051b172fb47c)
-
 </div>
-
 ```zsh
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 – Martin Fowler
