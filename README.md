@@ -1,13 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=YO%2C+IM+XKL)](https://git.io/typing-svg)
-<h2 align = "center"> 📉 My WakaTime Stats</h2>
-
-  
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
-
-
-
-
 
 ```csharp
 My Profile:   ルカス     || 
@@ -23,6 +15,10 @@ FavouriteSong: Rise
 Hobbies: Gaming, Anime,Coding 
 My Favourite singers : EVE , TAKAYAN , YUNGLIXO
 ```
+<h2 align = "center"> 📉 My WakaTime Stats</h2>
+
+  
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
 
 
 
