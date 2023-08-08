@@ -1,7 +1,7 @@
 ### yo, im xkl ✋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&hide_progress=false)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&layout=donut-vertical)]
 ## Daily technologies 
 
 <div style="display: inline_block"><br>
