@@ -8,7 +8,7 @@
 ```csharp
 My Profile:   ルカス     || 
 __===__=====__====_===__=
-Name: Xkl.
+Name: XKL.
 OS: Ubuntu 22.04.3 LTS
 Shell: bash 5.1.16 
 Telegram: @xkkll7
