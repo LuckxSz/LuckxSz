@@ -25,6 +25,11 @@ My Favourite singers : Eve, LilRevive, Frosty916
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
 ![coffee-overflow](https://github.com/LuckxSz/LuckxSz/assets/135531180/f70d42e3-83b9-423b-8694-051b172fb47c)
 </div>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=LuckxSz&repo=LuckxSz&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visit Viewer" height="40px" />
+</div>
+
+
 ```zsh
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 – Martin Fowler
