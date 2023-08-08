@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<h2 align="center">  About me  </h2>
 
 ```csharp
 My Profile:   ルカス     || 
@@ -21,16 +21,13 @@ My Favourite singers : EVE , TAKAYAN , YUNGLIXO
 ```
 <h2 align = "center"> 📉 My WakaTime Stats</h2>
 
-  
+  <div>
+    
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
-
-
-
-
 
 ![coffee-overflow](https://github.com/LuckxSz/LuckxSz/assets/135531180/f70d42e3-83b9-423b-8694-051b172fb47c)
 
-
+</div>
 
 ```zsh
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
