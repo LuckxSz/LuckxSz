@@ -1,5 +1,5 @@
-### yo, im xkl ✋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=YO%2C+IM+XKL)](https://git.io/typing-svg)
 <h2 align = "center"> 📉 My WakaTime Stats</h2>
 
   
