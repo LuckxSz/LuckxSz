@@ -8,8 +8,6 @@
 
 
 
-![chill-night](https://github.com/LuckxSz/LuckxSz/assets/135531180/d7688f3f-d6d3-4d31-aace-a7fbe63dacbe)
-
 
 
 ```csharp
@@ -28,12 +26,6 @@ My Favourite singers : EVE , TAKAYAN , YUNGLIXO
 ```
 
 
-
-
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
 
