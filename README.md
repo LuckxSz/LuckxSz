@@ -14,10 +14,10 @@ Shell: bash 5.1.16
 Telegram: @xkkll7
 FavouriteAnime: Boku no Hero Academia 
 Languages: HTML || CSS || JAVASCRIPT || 
-Learning: JAVASCRIPT|| REACT.JS
-FavouriteSong: Rise 
+Learning: JAVASCRIPT 
+FavouriteSong: HELL ABOVE 
 Hobbies: Gaming, Anime,Coding 
-My Favourite singers : EVE , TAKAYAN , YUNGLIXO
+My Favourite singers : Eve, LilRevive, Frosty916
 ```
 <h2 align = "center"> 📉 My WakaTime Stats</h2>
 
