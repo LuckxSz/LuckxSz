@@ -1,5 +1,5 @@
 ### yo, im xkl ✋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&hide_progress=true)
 
 
 ## Daily technologies 
