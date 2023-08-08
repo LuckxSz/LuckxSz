@@ -20,14 +20,15 @@ Hobbies: Gaming, Anime,Coding
 My Favourite singers : Eve, LilRevive, Frosty916
 ```
 <h2 align = "center"> 📉 My WakaTime Stats</h2>
+<div align="right">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=LuckxSz&repo=LuckxSz&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visit Viewer" height="30" />
+</div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
 ![coffee-overflow](https://github.com/LuckxSz/LuckxSz/assets/135531180/f70d42e3-83b9-423b-8694-051b172fb47c)
 </div>
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=LuckxSz&repo=LuckxSz&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visit Viewer" height="40px" />
-</div>
+
 
 
 ```zsh
@@ -35,4 +36,3 @@ My Favourite singers : Eve, LilRevive, Frosty916
 – Martin Fowler
 
 ```
-
