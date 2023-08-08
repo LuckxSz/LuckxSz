@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=YO%2C+IM+XKL)](https://git.io/typing-svg)
 
+
+
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
 ```csharp
 My Profile:   ルカス     || 
 __===__=====__====_===__=
@@ -28,6 +32,9 @@ My Favourite singers : EVE , TAKAYAN , YUNGLIXO
 
 
 
-
+```zsh
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 – Martin Fowler
+
+```
+
