@@ -11,8 +11,8 @@
 
 
 ```csharp
-My Profile v2.0.2: 破壊「はかい」
--------------------------------
+My Profile:   ルカス     || 
+__===__=====__====_===__=
 Name: Xkl.
 OS: Ubuntu 22.04.3 LTS
 Shell: bash 5.1.16 
