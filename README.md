@@ -2,9 +2,6 @@
 
 
 
-
-![LuckxSz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckxSz&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz)](https://github.com/LuckxSz/github-readme-stats)
 ## Daily technologies 
 
 <div style="display: inline_block"><br>
