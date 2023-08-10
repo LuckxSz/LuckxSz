@@ -16,7 +16,7 @@ Favourite-Anime: Boku no Hero Academia
 Languages: HTML || CSS || JAVASCRIPT || 
 Learning: JAVASCRIPT 
 Favourite-Song: HELL ABOVE 
-Hobbies: Gaming, Anime,Coding 
+Hobbies: Gaming, Anime, Coding 
 My Favourite singers : Eve, LilRevive, Frosty916
 ```
 <h2 align = "center"> 📉 My WakaTime Stats</h2>
