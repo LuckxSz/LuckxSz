@@ -32,7 +32,6 @@ My Favourite singers : Eve, LilRevive, Frosty916
 
 
 ```zsh
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-– Martin Fowler
+"No matter how powerful you become, never try to do it all yourself. Otherwise it will fail",Uchiha Itachi
 
 ```
