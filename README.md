@@ -6,7 +6,7 @@
 <h2 align="center">  About me  </h2>
 
 ```csharp
-My Profile:   ルカス     || 
+
 __===__=====__====_===__=
 Name: XKL.
 OS: Ubuntu 22.04.3 LTS
