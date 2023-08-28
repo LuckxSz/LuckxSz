@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center">  About me  </h2>
+<h2 align="center">  About me:grin:  </h2>
 
 ```csharp
 Name: XKL.
@@ -16,7 +16,7 @@ Favourite-Song: HELL ABOVE
 Hobbies: Gaming, Anime, Coding 
 My Favourite singers : Eve, LilRevive, Frosty916
 ```
-<h2 align="center"> My Languages  </h2>
+<h2 align="center"> My Languages :point_down:  </h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@ My Favourite singers : Eve, LilRevive, Frosty916
 
 
 
-<h2 align = "center"> 📉 My WakaTime Stats</h2>
+<h2 align = "center"> :memo: My WakaTime Stats :memo: </h2>
 <div align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=LuckxSz&repo=LuckxSz&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visit Viewer" height="30" />
 </div>
