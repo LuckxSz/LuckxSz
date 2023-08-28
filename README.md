@@ -1,7 +1,4 @@
 
-
-
-
 <h2 align="center">  About me:grin:  </h2>
 
 ```csharp
@@ -24,21 +21,8 @@ My Favourite singers : Eve, LilRevive, Frosty916
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-
-
 <h2 align = "center"> :memo: My WakaTime Stats :memo: </h2>
-<div align="right">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=LuckxSz&repo=LuckxSz&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visit Viewer" height="30" />
-</div>
-
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
 
-</div>
 
-
-
-```zsh
-"No matter how powerful you become, never try to do it all yourself. Otherwise it will fail",Uchiha Itachi
-
-```
