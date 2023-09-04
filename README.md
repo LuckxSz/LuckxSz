@@ -1,4 +1,8 @@
 
+![git](https://github.com/LuckxSz/LuckxSz/assets/135531180/dc270567-bfdb-41c6-9184-d110b7e1913b)
+
+
+
 <h2 align="center">  About me:grin:  </h2>
 
 ```csharp
