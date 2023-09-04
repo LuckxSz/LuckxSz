@@ -5,17 +5,7 @@
 
 <h2 align="center">  About me:grin:  </h2>
 
-```csharp
-Name: XKL.
-OS: Ubuntu 22.04.3 LTS
-Shell: bash 5.1.16 
-Telegram: @xkkll7
-Favourite-Anime: Boku no Hero Academia 
-Learning: ReactJs and Tailwind 
-Favourite-Song: HELL ABOVE 
-Hobbies: Gaming, Anime, Coding 
-My Favourite singers : Eve, LilRevive, Frosty916
-```
+
 <h2 align="center"> My Languages :point_down:  </h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
