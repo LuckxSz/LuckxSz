@@ -17,7 +17,7 @@
 
 <h2 align = "center"> :memo: My WakaTime Stats :memo: </h2>
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)
 
 
 </div>
