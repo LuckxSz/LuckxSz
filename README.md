@@ -3,7 +3,7 @@
 
 
 
-
+<div align="center">
 
 
 <h2 align="center"> My Languages :point_down:  </h2>
@@ -20,3 +20,4 @@
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)]
 
 
+</div>
