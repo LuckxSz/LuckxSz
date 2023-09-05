@@ -3,7 +3,7 @@
 
 
 
-<h2 align="center">  About me:grin:  </h2>
+
 
 
 <h2 align="center"> My Languages :point_down:  </h2>
