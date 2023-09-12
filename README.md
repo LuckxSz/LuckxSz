@@ -1,5 +1,19 @@
 <div align="center"> 
   <h2> Sobre mim 🤓 </h2> 
+    <table align="right">
+  <tr>
+    <td height="43px">
+      <b>
+        <a href="README.md">Português 🇧🇷</a>
+      </b>
+    </td>
+  </tr>
+  <tr>
+    <td height="43px">
+      <a href="readme-en.md">English 🇺🇸</a>
+    </td>
+  </tr>
+</table>
 Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programação e tudo que envolve tecnologias.<br>
   Estou constantemente em busca de desafios e oportunidades para crescer, como programador e como pessoa.<br>
     🇧🇷 Português = Nativo <br>
