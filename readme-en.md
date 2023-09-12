@@ -13,6 +13,11 @@
       <a href="readme-en.md">English 🇺🇸</a>
     </td>
   </tr>
+    <tr>
+    <td height="43px">
+      <a href="readme-jp.md"> 日本語 🇯🇵</a>
+    </td>
+  </tr>
 </table>
     </div>
   <h2> About me 🤓 </h2>
