@@ -1,26 +1,26 @@
 <div align="center"> 
-  <h2> About me 🤓 </h2> 
-<strong> Hello World. </strong><br>  My name is xkl, I'm  19 years old, and I'm passionate about programming and everything about technologies. <br>
- I'm constantly looking for challenges and opportunities to grow,  as a programmer and as a person. <br>
-   🇧🇷 Portuguese = Native <br>
- 🇺🇸 English = Advanced <br>
-   🇯🇵 Japanese = JLPT-N5 <br>
+  <h2> Sobre mim 🤓 </h2> 
+Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programação e tudo que envolve tecnologias.<br>
+  Estou constantemente em busca de desafios e oportunidades para crescer, como programador e como pessoa.<br>
+    🇧🇷 Português = Nativo <br>
+  🇺🇸 Inglês = Avançado <br>
+    🇯🇵 Japonês = JLPT-N5 
 
 </div>
-<h3 align="center"> Github Stats  </h3>  
+<h3 align="center"> Status do Github  </h3>  
 <div align="center">  
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=LuckxSz&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="LuckxSzgithub stats" />
  
  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&layout=compact&hide_border=true&title_color=e971b7&text_color=50fa7b&bg_color=00000000"/>
 </div>
  
- <h3 align="center"> Github Streaks   </h3>
+ <h3 align="center"> Streaks do Github  </h3>
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuckxSz&theme=jolly&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&dates=BD93F9&ring=50fa7b&fire=50fa7b&currStreakNum=50fa7b&sideNums=50fa7b&currStreakLabel=e971b7&sideLabels=e971b7" alt="LuckxSz"/></p>  
 
 
  <div>  
-   <h3 align="center"> Contacts </h3> 
+   <h3 align="center"> Contatos </h3> 
 </div>
   
 <div align="center">  
@@ -31,7 +31,7 @@
 <div align="center">
 
 
-<h2 align="center"> My Languages  </h2>
+<h2 align="center"> Minhas Linguagens   </h2>
 
  <img align="center" alt="xkl-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
   <img align="center" alt="xkl-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
@@ -41,7 +41,7 @@
  
 
 
-<h2 align = "center" > :memo: My WakaTime Stats :memo: </h2>
+<h2 align = "center" > :memo: Meu Statos no WakaTime :memo: </h2>
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)
 
