@@ -1,10 +1,11 @@
 <div align="center"> 
-  <h2> About me 🤓 </h2> 
+  <h2> About me 🤓 </h2>
+  
   <table align="right">
   <tr>
     <td height="43px">
       <b>
-        <a href="README.md">Português 🇧🇷</a>
+        <a href="README.md">Portuguese 🇧🇷</a>
       </b>
     </td>
   </tr>
@@ -14,11 +15,10 @@
     </td>
   </tr>
 </table>
- Hello World. My name is xkl, I'm 19 years old, and I'm passionate about programming and everything about technologies.
-  I'm constantly looking for challenges and opportunities to grow, as a programmer and as a person.
-    🇧🇷 Portuguese = Native
-  🇺🇸 English = Advanced
-    🇯🇵 Japanese = JLPT-N5
+  
+ Hello World. <br> My name is xkl, I'm 19 years old, and I'm passionate about programming and everything about technologies. <br>
+  I'm constantly looking for challenges and opportunities to grow, as a programmer and as a person. <br>
+    🇧🇷 Portuguese = Native <br> 🇺🇸 English = Advanced <br >🇯🇵 Japanese = JLPT-N5 <br>
 
 </div>
 <h3 align="center"> Github Stats  </h3>  
