@@ -1,4 +1,4 @@
- <img width="100%" height="30%" src="https://github.com/LuckxSz/LuckxSz/assets/135531180/4674b1b4-ae69-4dbd-978c-8601a92c4ed5" />
+ <img width="100%" height="30%" src="https://github.com/LuckxSz/LuckxSz/assets/135531180/b0f7b4cb-2856-4c90-ab74-0e2b7b0833f3" />
 <h3 align="center"> Github Stats  </h3>  
 
 
