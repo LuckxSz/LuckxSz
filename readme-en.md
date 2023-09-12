@@ -1,5 +1,5 @@
 <div align="center"> 
-  
+  <div align="center"> 
   <table align="top">
   <tr>
     <td height="43px">
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+    </div>
   <h2> About me 🤓 </h2>
   
  Hello World. <br> My name is xkl, I'm 19 years old, and I'm passionate about programming and everything about technologies. <br>
