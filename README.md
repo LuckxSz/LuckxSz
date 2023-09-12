@@ -1,5 +1,10 @@
- <img width="100%" height="30%" src="https://github.com/LuckxSz/LuckxSz/assets/135531180/dc270567-bfdb-41c6-9184-d110b7e1913b" />
+ <img width="100%" height="30%" src="https://github.com/LuckxSz/LuckxSz/assets/135531180/4674b1b4-ae69-4dbd-978c-8601a92c4ed5" />
 <h3 align="center"> Github Stats  </h3>  
+
+
+
+
+
 <div align="center">  
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=LuckxSz&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="LuckxSzgithub stats" />
  
