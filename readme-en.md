@@ -1,5 +1,4 @@
 <div align="center"> 
-  <h2> About me 🤓 </h2>
   
   <table align="right">
   <tr>
@@ -15,6 +14,7 @@
     </td>
   </tr>
 </table>
+  <h2> About me 🤓 </h2>
   
  Hello World. <br> My name is xkl, I'm 19 years old, and I'm passionate about programming and everything about technologies. <br>
   I'm constantly looking for challenges and opportunities to grow, as a programmer and as a person. <br>
