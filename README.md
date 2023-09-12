@@ -1,9 +1,10 @@
 <div align="center"> 
-    <table align="top">
+    <div align="center"> 
+  <table align="top">
   <tr>
     <td height="43px">
       <b>
-        <a href="README.md">Português 🇧🇷</a>
+        <a href="README.md">Portuguese 🇧🇷</a>
       </b>
     </td>
   </tr>
@@ -13,6 +14,7 @@
     </td>
   </tr>
 </table>
+    </div>
   <h2> Sobre mim 🤓 </h2> 
 Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programação e tudo que envolve tecnologias.<br>
   Estou constantemente em busca de desafios e oportunidades para crescer, como programador e como pessoa.<br>
