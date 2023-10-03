@@ -53,7 +53,7 @@
 </p>
 
 
-<h2 align = "center" > :memo: Github Stats  :memo: </h2>
+<h2 align = "center" > :memo: My WakaTime Status  :memo: </h2>
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)
 
