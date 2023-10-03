@@ -55,7 +55,7 @@
 </p>
 
 
-<h2 align = "center" > :memo:Github のストリーク :memo: </h2>
+<h2 align = "center" > :memo: WakaTimeのストリーク :memo: </h2>
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)
 
