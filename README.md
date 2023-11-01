@@ -33,13 +33,6 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
     🇯🇵 Japonês = JLPT-N5  
  
 </div>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
-  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckxSz&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
-  </a>
 
 
 
