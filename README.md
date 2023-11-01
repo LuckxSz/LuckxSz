@@ -37,21 +37,20 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
   </a>
-
-
-</p>
-<p align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=LuckxSz&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
   </a>
-</p> 
+
+
 
 <div align="center">
 
 
 <h2 align="center"> Minhas Linguagens   </h2>
 <p align="center">
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <a href="https://skillicons.dev" >
+    <img width="800"  src="https://skillicons.dev/icons?i=github,html,css,javascript,react,linux,vite,tailwind" />
+  </a>
 </p>
 
 
