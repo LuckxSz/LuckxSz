@@ -42,10 +42,15 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
 <h2 align="center"> Minhas Linguagens   </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=github,html,css,javascript,react,linux,vite,tailwind" />
+    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux" />
   </a>
 </p>
-
+<h2 align="center"> Aprendendo :    </h2>
+<p align="center">
+   <a href="https://skillicons.dev" >
+    <img width="600"  src="https://skillicons.dev/icons?i=javascript,react,vite,tailwind" />
+  </a>
+</p>
 
 <h2 align = "center" > :memo: Meu Status no WakaTime :memo: </h2>
 
