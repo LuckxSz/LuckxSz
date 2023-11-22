@@ -48,7 +48,7 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
 <h2 align="center"> Aprendendo :    </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=javascript,react,vite,tailwind,rust" />
+    <img width="600"  src="https://skillicons.dev/icons?i=javascript,react,vite,tailwind,typescript" />
   </a>
 </p>
 
