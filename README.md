@@ -54,8 +54,7 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
 
 <h2 align = "center" > Meu Status no WakaTime </h2>
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckxSz)
-
+ <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=LuckxSz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Wakatime%&range=all_time&cache_seconds=14400" />
 
 </div>
 
