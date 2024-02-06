@@ -42,13 +42,13 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
 <h2 align="center"> Minhas Linguagens   </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux" />
+    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux,ruby,vite" />
   </a>
 </p>
 <h2 align="center"> Aprendendo :    </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=javascript,react,vite,tailwind,typescript" />
+    <img width="600"  src="https://skillicons.dev/icons?i=ruby" />
   </a>
 </p>
 
