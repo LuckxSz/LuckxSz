@@ -38,7 +38,11 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
 
 <div align="center">
 
+<h2 align = "center" > Meu Status no WakaTime </h2>
 
+ <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=LuckxSz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Wakatime%&range=all_time&cache_seconds=14400" />
+
+</div>
 <h2 align="center"> Minhas Linguagens   </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
@@ -52,9 +56,5 @@ Olá Mundo.<br> Meu nome é xkl, tenho 19 anos e sou apaixonado por programaçã
   </a>
 </p>
 
-<h2 align = "center" > Meu Status no WakaTime </h2>
 
- <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=LuckxSz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Wakatime%&range=all_time&cache_seconds=14400" />
-
-</div>
 
