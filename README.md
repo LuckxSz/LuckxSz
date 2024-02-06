@@ -6,7 +6,7 @@
 <h2 align="center"> 言語 </h2>
 <p align="center">
    <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux,ruby,vite" />
+    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux,ruby,vite,react" />
   </a>
 </p>
 
