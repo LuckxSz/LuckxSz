@@ -1,17 +1,14 @@
-<div align="center">
- 
- 
- 
- <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=LuckxSz&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Wakatime%&range=all_time&cache_seconds=14400" />
-<h2 align="center"> Languages </h2>
-<p align="center">
-   <a href="https://skillicons.dev" >
-    <img width="600"  src="https://skillicons.dev/icons?i=javascript,github,html,css,linux,ruby,vite,react,nodejs" />
-  </a>
-</p>
-
-</div>
-
-
-
-
+```
+const LuckxSz = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS, REACT,],
+    askMeAbout: ["games", "coffe", "music", "anime"],
+    technologies: {
+        frontEnd: {
+            Programming language: ['JavaScript'],
+            Technologies: ['HTML5', 'CSS3'],
+            Frameworks> ['ReactJS']
+        },
+    }
+};
+```
