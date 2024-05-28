@@ -1,29 +1,89 @@
-# Olá! Eu sou XKL 👋
 
-![Perfil Views](https://komarev.com/ghpvc/?username=LuckxSz&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/LuckxSz?label=Seguidores&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/LuckxSz?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
+<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
+<table align="right" height="300px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;GitHub&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Linux&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="65px" alt="tailwindcss icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwindcss</pre>
+        </b>
+      </sub>
+    </td>
 
-## Sobre Mim
-
-- 🌱 Atualmente estou aprendendo **[React]**
-- 👯 Estou procurando colaborar em **[React]**
-- 📫 Como me encontrar: **[joselucas20048jl@gmail.com]**
-
-## Ferramentas e Tecnologias
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuckxSz&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckxSz&layout=compact&theme=radical)
-
-
-⭐️ Deixe uma estrela nos repositórios que você curtir!
+</table> 
