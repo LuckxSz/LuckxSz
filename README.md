@@ -1,5 +1,5 @@
 
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
+<h2 align="center">🛠️&ensp; <i>technologies</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="right" height="300px">
   <tr>
