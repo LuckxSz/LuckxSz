@@ -7,25 +7,6 @@
 </div>
 <div align="center"> 
   <div align="center"> 
-  <table align="top">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Portuguese 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>
-    <tr>
-    <td height="43px">
-      <a href="readme-jp.md"> 日本語 🇯🇵</a>
-    </td>
-  </tr>
-</table>
     </div>
   <h2> About me 🤓 </h2>
   
