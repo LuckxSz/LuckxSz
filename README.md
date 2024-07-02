@@ -10,7 +10,7 @@
     </div>
   <h2> About me 🤓 </h2>
   
- Hello World. <br> My name is xkl, I'm 19 years old, and I'm passionate about programming and everything about technologies. <br>
+ Hello World. <br> My name is xkl, I'm 20 years old, and I'm passionate about programming and everything about technologies. <br>
   I'm constantly looking for challenges and opportunities to grow, as a programmer and as a person. <br>
     🇧🇷 Portuguese = Native <br> 🇺🇸 English = Advanced <br >🇯🇵 Japanese = JLPT-N5 <br>
 
