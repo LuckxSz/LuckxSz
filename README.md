@@ -1,4 +1,4 @@
-# ───   ようこそ // WELCOME TO MY PROFILE   ───
+# ───ようこそ───
 
 <div align="center">
   <kbd>🌐 FRONT-END DEVELOPER</kbd>
