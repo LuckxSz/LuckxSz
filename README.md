@@ -11,7 +11,6 @@
 ```text
 > INITIALIZING PROFILE...
 > CURRENT_STATUS: Deep learning mode.
-> FUTURE_GOAL: Becoming an exceptional professional.
 
 ⛩️ Sobre Mim // 概要
 Olá! Eu sou o Lucas. Sou um desenvolvedor focado em aprender a criar experiências web rápidas, modernas e visualmente impactantes. Acredito que um bom código nasce da união entre lógica afiada e design minimalista.
